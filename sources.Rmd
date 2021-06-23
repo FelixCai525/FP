@@ -1,0 +1,12 @@
+---
+title: "Sources"
+---
+
+## Population Data
+### [*Population by Country - 2020* by Tanu N Prabhu from Kaggle.](https://www.kaggle.com/tanuprabhu/population-by-country-2020) 
+
+## GDP per Capita Data
+### [*GDP per Capita, 2017* from Our World in Data](https://ourworldindata.org/grapher/gdp-per-capita-worldbank)
+
+## COVID-19 Data
+### [*Novel Coronavirus 2019* from DataHub](https://datahub.io/core/covid-19#data-cli)
